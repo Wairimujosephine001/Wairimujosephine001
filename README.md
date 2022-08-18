@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Wairimujosephine001
-- 👀 I’m interested in learning software engineering 
-- 🌱 I’m currently waiting to enroll at ALX and Apprentice Cloud.
+- 👋 Hi, I’m @Wairimujosephine001 
+- 🌱 I’m currently at Apprentice Cloud.
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me  wairimujosephine001@gmail.com
 
